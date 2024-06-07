@@ -1,0 +1,24 @@
+.about-container {
+    text-align: center;
+    padding: 2rem;
+    background-color: #e9ecef;
+}
+
+.about-container h1 {
+    font-size: 2.5rem;
+    color: #343a40;
+    margin-bottom: 1rem;
+}
+
+.about-container p {
+    font-size: 1.2rem;
+    color: #6c757d;
+    margin-bottom: 2rem;
+}
+
+.about-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
